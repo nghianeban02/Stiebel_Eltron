@@ -170,7 +170,8 @@
   "confirmDelete":"Bạn có chắc chắn xóa tài khoản? Sau khi xóa tài khoản sẽ không thể khôi phục",
   "deleteAccount":"Xóa tài khoản",
   "notification":"Thông báo",
-  "selectedProvince":"--Chọn Tỉnh/Thành phố--"
+  "selectedProvince":"--Chọn Tỉnh/Thành phố--",
+  "registrationSucessful":"Đăng ký thành công"
 
 }
 

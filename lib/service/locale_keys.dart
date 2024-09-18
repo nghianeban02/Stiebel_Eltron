@@ -65,7 +65,6 @@ class LocaleKeys {
   static const supermarket = 'supermarket';
   static const project = 'project';
   static const technical = 'technical';
-
   static const maxCharacter = 'maxCharacter';
   static const enterMax = 'enterMax';
   static const enterMin = 'enterMin';
@@ -181,6 +180,8 @@ class LocaleKeys {
   static const deleteAccount="deleteAccount";
   static const notification="notification";
   static const selectedProvince="selectedProvince";
+  static const registrationSucessful="registrationSucessful";
+
 
   
 

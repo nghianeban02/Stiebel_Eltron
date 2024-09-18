@@ -110,16 +110,16 @@ class AccountCubit extends Cubit<AccountState> {
   //   }
   // }
 
-  Future checkOtp(String phone, String code) async {
-    try {
-      var res = await accountReposipory.checkOtp(phone, code);
-      if (res != null && res.statusCode == 200) {
-        await register();
-      }
-    } on DioError catch (e) {
-      Common.showSnackBar(NavigateKeys().navigationKey.currentContext!, 'Mã OTP không đúng');
-    }
-  }
+  // Future checkOtp(String phone, String code) async {
+  //   try {
+  //     var res = await accountReposipory.checkOtp(phone, code);
+  //     if (res != null && res.statusCode == 200) {
+  //       await register();
+  //     }
+  //   } on DioError catch (e) {
+  //     Common.showSnackBar(NavigateKeys().navigationKey.currentContext!, 'Mã OTP không đúng');
+  //   }
+  // }
       //update userinfo
 //   Future<bool> updateUserInfo(InfoUserModel infoUserModel) async {
 //   try {
@@ -234,7 +234,7 @@ class AccountCubit extends Cubit<AccountState> {
       if (res != null && res.data is String) {
         Navigator.pushNamedAndRemoveUntil(
             NavigateKeys().navigationKey.currentContext!, AppRouter.loginScreen, (route) => false);
-        Common.showSnackBar(NavigateKeys().navigationKey.currentContext!, 'Đăng kí thành công');
+        Common.showSnackBar(NavigateKeys().navigationKey.currentContext!,LocaleKeys.registerSuccessfully.tr);
       }
     } on DioError catch (e) {
       CustomDioError.errorDio(e);
@@ -251,7 +251,7 @@ class AccountCubit extends Cubit<AccountState> {
       if (res != null && res.data is String) {
         Navigator.pushNamedAndRemoveUntil(
             NavigateKeys().navigationKey.currentContext!, AppRouter.loginScreen, (route) => false);
-        Common.showSnackBar(NavigateKeys().navigationKey.currentContext!, 'Đăng kí thành công');
+        Common.showSnackBar(NavigateKeys().navigationKey.currentContext!,LocaleKeys.registerSuccessfully.tr);
       }
     } on DioError catch (e) {
       CustomDioError.errorDio(e);

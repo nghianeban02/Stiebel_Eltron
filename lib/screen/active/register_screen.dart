@@ -104,7 +104,6 @@ class _RegistrationFormState extends State<RegistrationForm> {
                         activateCubit.updateFormCustomer(mail: value);
                         // accountCubit.updateFormRegister(taxCode: value);
                       },
-
                       //validate check định dạng email
                       validator: (value) => Validator.validateEmail(value),
                       labelText: "Mail *",

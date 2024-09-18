@@ -9,7 +9,6 @@ class ListProduct extends StatelessWidget {
   Widget build(BuildContext context) {
         return  SingleChildScrollView(
           child: Column(
-            
             children: [
               // Máy nước nóng section
               Padding(

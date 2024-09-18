@@ -170,5 +170,7 @@
   "confirmDelete": "Are you sure you want to delete the account? Once deleted, the account cannot be recovered.",
   "deleteAccount": "Delete Account",
   "notification": "Notification",
-  "selectedProvince": "--Select Province/City--"
+  "selectedProvince": "--Select Province/City--",
+  "registrationSucessful":"Registration successful"
+
 }
