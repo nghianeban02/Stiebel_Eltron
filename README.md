@@ -27,25 +27,8 @@ Install dependencies: Navigate to the project directory and install the required
 cd stiebel-eltron-vietnam
 flutter pub get
 Run the application: To run the application on your preferred platform (Android/iOS):
-bash
-Sao chép mã
 flutter run
-Project Structure
-The project is structured as follows:
-lib/
-│
-├── blocs/                 # Contains BloC logic
-├── models/                # Data models
-├── services/              # API services (using Dio)
-├── localization/          # GetX localization files for multi-language support
-├── screens/               # UI screens for the application
-└── widgets/               # Reusable widgets
-Contributions
-Contributions are welcome! Please follow the steps below:
-Fork the repository.
-Create a new branch (git checkout -b feature/your-feature).
-Commit your changes (git commit -m 'Add some feature').
-Push to the branch (git push origin feature/your-feature).
+
 Open a pull request.
 Contact
 For any questions or support, please reach out to:
