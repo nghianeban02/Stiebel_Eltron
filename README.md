@@ -19,29 +19,19 @@ Warranty Tracking: Track and manage the warranty status of registered products.
 Customer Support: Direct access to customer support for product inquiries or issues.
 API Integration: The app communicates with backend services through APIs to fetch and update warranty information and handle user requests.
 Installation
+
 To set up the project locally, follow these steps:
-
 Clone the repository:
-
-bash
-Sao chép mã
 git clone https://github.com/yourusername/stiebel-eltron-vietnam.git
 Install dependencies: Navigate to the project directory and install the required dependencies:
-
-bash
-Sao chép mã
 cd stiebel-eltron-vietnam
 flutter pub get
 Run the application: To run the application on your preferred platform (Android/iOS):
-
 bash
 Sao chép mã
 flutter run
 Project Structure
 The project is structured as follows:
-
-bash
-Sao chép mã
 lib/
 │
 ├── blocs/                 # Contains BloC logic
@@ -52,15 +42,11 @@ lib/
 └── widgets/               # Reusable widgets
 Contributions
 Contributions are welcome! Please follow the steps below:
-
 Fork the repository.
 Create a new branch (git checkout -b feature/your-feature).
 Commit your changes (git commit -m 'Add some feature').
 Push to the branch (git push origin feature/your-feature).
 Open a pull request.
-License
-This project is licensed under the MIT License.
-
 Contact
 For any questions or support, please reach out to:
 
