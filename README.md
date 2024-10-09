@@ -30,7 +30,6 @@ Customer Support: Direct access to customer support for product inquiries or iss
 
 API Integration: The app communicates with backend services through APIs to fetch and update warranty information and handle user requests.
 Installation
-
 To set up the project locally, follow these steps:
 Clone the repository:
 git clone https://github.com/nghianeban02/Stiebel_Eltron.git
