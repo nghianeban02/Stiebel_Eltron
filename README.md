@@ -34,7 +34,8 @@ Installation
 To set up the project locally, follow these steps:
 Clone the repository:
 git clone https://github.com/nghianeban02/Stiebel_Eltron.git
-Install dependencies: Navigate to the project directory and install the required dependencies:
+Install dependencies:
+Navigate to the project directory and install the required dependencies:
 cd stiebel-eltron-vietnam
 flutter pub get
 Run the application: To run the application on your preferred platform (Android/iOS):
