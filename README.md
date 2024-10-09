@@ -1,4 +1,4 @@
-STIEBEL ELTRON VIET NAM PROJECT (QUOC BAO SOFTWARE) 2024
+STIEBEL ELTRON VIET NAM PROJECT
 Overview
 The Stiebel Eltron Viet Nam Project is a mobile application developed for the Stiebel Eltron brand, a company specializing in providing services related to warranty and customer support for their products. This application enables users to interact with the brand, allowing them to register products, track warranty status, and access customer support easily through their mobile devices.
 
