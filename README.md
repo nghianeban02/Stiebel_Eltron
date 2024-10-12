@@ -8,7 +8,7 @@ Warranty and Customer Support: The app helps users manage warranties and provide
 
 State Management: Utilizes BloC (Business Logic Component) for efficient state management and to separate the business logic from the UI.
 
-Multi-Language Support: Integrated GetX Localization for managing multiple languages, ensuring a user-friendly experience for customers in various regions.\
+Multi-Language Support: Integrated GetX Localization for managing multiple languages, ensuring a user-friendly experience for customers in various regions.
 
 API Integration: Leverages Dio to handle API calls, making HTTP requests, interacting with JSON data, and managing errors effectively.
 
