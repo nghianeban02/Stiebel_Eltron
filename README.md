@@ -1,22 +1,74 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Stiebel_Eltron_Project
 =======
 # stiebel_etron_warranty
+=======
+STIEBEL ELTRON VIET NAM PROJECT
+Overview
+The Stiebel Eltron Viet Nam Project is a mobile application developed for the Stiebel Eltron brand, a company specializing in providing services related to warranty and customer support for their products. This application enables users to interact with the brand, allowing them to register products, track warranty status, and access customer support easily through their mobile devices.
+>>>>>>> a9ddfa982f2084043a2aec6f8e56ddd93d685ee9
 
-A new Flutter project.
+Features
+Mobile Application: Built using Flutter, providing a cross-platform solution for both Android and iOS users.
+Warranty and Customer Support: The app helps users manage warranties and provides seamless access to customer support for Stiebel Eltron products.
 
-## Getting Started
+State Management: Utilizes BloC (Business Logic Component) for efficient state management and to separate the business logic from the UI.
 
-This project is a starting point for a Flutter application.
+Multi-Language Support: Integrated GetX Localization for managing multiple languages, ensuring a user-friendly experience for customers in various regions.
 
-A few resources to get you started if this is your first Flutter project:
+API Integration: Leverages Dio to handle API calls, making HTTP requests, interacting with JSON data, and managing errors effectively.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Technologies Used
+Flutter: For building the mobile application across iOS and Android platforms.
 
+<<<<<<< HEAD
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 >>>>>>> c04546e (init)
 
 
+=======
+BloC: To manage state and handle the application's business logic.
+
+GetX Localization: For easy multi-language support and localization in the app.
+
+Dio: A powerful HTTP client library used for API calls, error handling, and data management.
+
+Key Functionalities
+Product Registration: Users can register their Stiebel Eltron products through the app, ensuring their products are covered under warranty.
+
+Warranty Tracking: Track and manage the warranty status of registered products.
+
+Customer Support: Direct access to customer support for product inquiries or issues.
+
+API Integration: The app communicates with backend services through APIs to fetch and update warranty information and handle user requests.
+Installation
+To set up the project locally, follow these steps:
+Clone the repository:
+````
+git clone https://github.com/nghianeban02/Stiebel_Eltron.git
+````
+
+Install dependencies:
+Navigate to the project directory and install the required dependencies:
+````
+cd stiebel-eltron-vietnam
+
+flutter pub get
+````
+
+Run the application: To run the application on your preferred platform (Android/iOS):
+````
+
+flutter run
+````
+
+Open a pull request.
+Contact
+For any questions or support, please reach out to:
+
+Project Lead: Nguyen Huu Nghia
+Email: nghiamc147@gmail.com
+>>>>>>> a9ddfa982f2084043a2aec6f8e56ddd93d685ee9
