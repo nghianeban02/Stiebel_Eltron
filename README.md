@@ -50,7 +50,7 @@ Run the application: To run the application on your preferred platform (Android/
 flutter run
 ````
 
-Open a pull request.
+
 Contact
 For any questions or support, please reach out to:
 
