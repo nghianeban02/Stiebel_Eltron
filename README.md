@@ -70,4 +70,4 @@ For any questions or support, please reach out to:
 Project Lead: Nguyen Huu Nghia
 Email: nghiamc147@gmail.com
 
-![Alt text](lib/Stiebel%20Eltron%20Project.png)
+
