@@ -32,7 +32,9 @@ API Integration: The app communicates with backend services through APIs to fetc
 Installation
 To set up the project locally, follow these steps:
 Clone the repository:
+````
 git clone https://github.com/nghianeban02/Stiebel_Eltron.git
+````
 
 Install dependencies:
 Navigate to the project directory and install the required dependencies:
