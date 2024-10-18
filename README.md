@@ -69,4 +69,5 @@ For any questions or support, please reach out to:
 
 Project Lead: Nguyen Huu Nghia
 Email: nghiamc147@gmail.com
-![Screenshot of the Interface](/Users/nguyenhuunghia/FlutterApp/Stiebel_Eltron/Stiebel-Eltron-Warranty/lib/Stiebel Eltron Project.png)
+
+![Screenshot of the Interface](lib/Stiebel Eltron Project.png)
