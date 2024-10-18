@@ -7,7 +7,6 @@
 STIEBEL ELTRON VIET NAM PROJECT
 Overview
 The Stiebel Eltron Viet Nam Project is a mobile application developed for the Stiebel Eltron brand, a company specializing in providing services related to warranty and customer support for their products. This application enables users to interact with the brand, allowing them to register products, track warranty status, and access customer support easily through their mobile devices.
->>>>>>> a9ddfa982f2084043a2aec6f8e56ddd93d685ee9
 
 Features
 Mobile Application: Built using Flutter, providing a cross-platform solution for both Android and iOS users.
@@ -26,7 +25,6 @@ Flutter: For building the mobile application across iOS and Android platforms.
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
->>>>>>> c04546e (init)
 
 
 =======
@@ -71,4 +69,4 @@ For any questions or support, please reach out to:
 
 Project Lead: Nguyen Huu Nghia
 Email: nghiamc147@gmail.com
->>>>>>> a9ddfa982f2084043a2aec6f8e56ddd93d685ee9
+![Screenshot of the Interface](/Users/nguyenhuunghia/FlutterApp/Stiebel_Eltron/Stiebel-Eltron-Warranty/lib/Stiebel Eltron Project.png)
